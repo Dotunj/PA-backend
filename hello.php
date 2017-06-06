@@ -18,3 +18,5 @@ if(!$connect){
 } else {
 	echo "Connected to Database successfully";
 }
+
+?>
